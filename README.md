@@ -6,7 +6,6 @@
 
 - 📫 How to reach me **bishal075baniya@gmail.com**
 
-- ⚡ Fun fact **I forgot Everything.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

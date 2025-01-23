@@ -1,7 +1,5 @@
 
 <h1 align="center">Hi 👋, I'm Bishal Baniya</h1>
-<h3 align="center">A passionate student from Nepal.</h3>
-<img align="right" alt="coding" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bishalbaniya&label=Profile%20views&color=0e75b6&style=flat" alt="bishalbaniya" /> </p>
 
@@ -24,4 +22,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bishalbaniya&show_icons=true&locale=en" alt="bishalbaniya" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bishalbaniya&" alt="bishalbaniya" /></p>
